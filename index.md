@@ -1,8 +1,8 @@
 ## Welcome to Malyaj's portfolio
 
-You can use the [editor on GitHub](https://github.com/Malyaj/Malyaj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here I would be keeping my updated projects in Python.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To reach out to me, shoot a mail at malyaj.srivastav@gmail.com
 
 ### Markdown
 
