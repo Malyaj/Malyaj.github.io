@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Malyaj's portfolio
 
 You can use the [editor on GitHub](https://github.com/Malyaj/Malyaj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
